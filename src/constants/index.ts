@@ -21,14 +21,16 @@ import { ReactComponent as TableSvg } from "../assets/svg/table.svg";
 import { ReactComponent as WallSvg } from "../assets/svg/wall.svg";
 import { ReactComponent as SquareSvg } from "../assets/svg/square.svg";
 
+import LandingImg from "../assets/images/4.jpg";
+
 import BorjImage from "../assets/images/borj.jpg";
-import GalleryOne from "../assets/images/g1.jpg";
-import GalleryTwo from "../assets/images/g2.jpg";
-import GalleryThree from "../assets/images/g3.jpg";
+import GalleryOne from "../assets/images/g14.jpeg";
+import GalleryTwo from "../assets/images/7.jpeg";
+import GalleryThree from "../assets/images/81.jpg";
 import GalleryFour from "../assets/images/g4.jpg";
 import GalleryFive from "../assets/images/g5.jpg";
 import GallerySix from "../assets/images/g6.jpg";
-import GallerySeven from "../assets/images/g7.jpg";
+import GallerySeven from "../assets/images/21.jpg";
 import GalleryEight from "../assets/images/g8.png";
 
 import Slider1 from "../assets/images/slider1.jpg";
@@ -232,4 +234,5 @@ export {
   Units8Gallery7,
   Units8Gallery8,
   Units8Gallery9,
+  LandingImg,
 };
