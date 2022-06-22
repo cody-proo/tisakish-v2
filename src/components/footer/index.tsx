@@ -1,6 +1,6 @@
 import React from "react";
 import { BsLaptop } from "react-icons/bs";
-import { FaEnvelope, FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
+import { FaEnvelope, FaInstagram } from "react-icons/fa";
 import { TisaLogo } from "../../constants";
 import "./index.scss";
 
